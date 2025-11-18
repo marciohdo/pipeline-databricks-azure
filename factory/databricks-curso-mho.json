@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-mho",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "523a9a22-61bd-4a91-a38c-cff0847bc06f",
+		"tenantId": "061b2429-0eaa-40a5-b0f6-1622c51a0ae1"
+	}
+}
